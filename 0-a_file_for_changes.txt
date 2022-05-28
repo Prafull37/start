@@ -1,2 +1,0 @@
-1.) Added this file for checking commit -a
-2.) Added 2nd point to mark as untracked
