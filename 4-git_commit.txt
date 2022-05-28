@@ -48,6 +48,3 @@ Commit contents options
     --pathspec-from-file <file>
                           read pathspec from file
     --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
-
-
-

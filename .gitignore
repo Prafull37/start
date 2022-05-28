@@ -1,0 +1,10 @@
+# works #like comment 
+# !*.txt -> files not be ignore !.
+# /TODO -> file name TODO will be ignored not subdir
+# build/ -> file name build and all files inside it
+# doc/*.txt -> ignore doc/notes.txt not doc/server/arch.txt
+
+# doc/**/*.pdf -> ignore all pdf inside it including subdir
+
+TODO/
+!*.txt
